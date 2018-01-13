@@ -1,0 +1,6 @@
+{
+  "name": "p5-manager",
+  "projects": [
+    "linearAlgebra"
+  ]
+}
